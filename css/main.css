@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 table {
@@ -20,7 +20,6 @@ td {
   color: #991919;
   border: 2px solid #b92828;
   border-radius: 8px;
-  padding: .25rem;
 }
 
 .grey {
@@ -28,7 +27,6 @@ td {
   color: #333;
   border: 2px solid #666;
   border-radius: 8px;
-  padding: .25rem;
 }
 
 .green {
@@ -36,7 +34,6 @@ td {
   color: #51603f;
   border: 2px solid #6b7e54;
   border-radius: 8px;
-  padding: .25rem;
 }
 
 .blue {
@@ -44,5 +41,4 @@ td {
   color: #38448e;
   border: 2px solid #1d38da;
   border-radius: 8px;
-  padding: .25rem;
 }
